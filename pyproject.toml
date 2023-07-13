@@ -9,6 +9,8 @@ packages = [{include = "gpt_python_examples"}]
 [tool.poetry.dependencies]
 python = "^3.10"
 openai = "^0.27.8"
+requests = "^2.31.0"
+pillow = "^10.0.0"
 
 
 [tool.poetry.group.dev.dependencies]
