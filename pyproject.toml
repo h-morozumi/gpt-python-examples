@@ -9,7 +9,7 @@ packages = [{include = "gpt_python_examples"}]
 [tool.poetry.dependencies]
 python = "^3.10"
 requests = "^2.31.0"
-pillow = "^10.0.0"
+pillow = "^10.0.1"
 openai = "^0.27.8"
 azure-identity = "^1.13.0"
 langchain = "^0.0.233"
